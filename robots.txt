@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://www.prinserlimited.co.ke/sitemap.xml
+
+# Prinser Limited - Machakos, Kenya
+# www.prinserlimited.co.ke
